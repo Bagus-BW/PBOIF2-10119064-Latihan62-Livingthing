@@ -10,6 +10,10 @@ import model.Human;
 /**
  *
  * @author Bagus_24
+ * NAMA         : Bagus Budi Wibowo
+ * KELAS        : PBOIF2 
+ * NIM          : 10119064 
+ * Deskripsi Program : Program ini merupakan program Living Thing
  */
 public class PBOIF210119064Latihan62Livingthing {
 
